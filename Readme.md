@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DropDownRemoteData/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DropDownRemoteData/Controllers/HomeController.vb))
+* [OrdersController.cs](./CS/DropDownRemoteData/Controllers/OrdersController.cs) (VB: [OrdersController.vb](./VB/DropDownRemoteData/Controllers/OrdersController.vb))
+* **[Index.cshtml](./CS/DropDownRemoteData/Views/Home/Index.cshtml)**
+* [_Layout.cshtml](./CS/DropDownRemoteData/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # How to bind drop-down widgets (like SelectBox) to a remote ASP.NET Web API service 
 
 
